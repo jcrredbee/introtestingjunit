@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="collections.queue.QueueTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-01-19T13:18:00" hostname="DESKTOP-80OJD3Q" time="0.037">
+  <properties/>
+  <testcase name="enqueueWillNotEmpty()" classname="collections.queue.QueueTest" time="0.025"/>
+  <testcase name="enqueueInFullQueueThrowsOverFlowException()" classname="collections.queue.QueueTest" time="0.003"/>
+  <testcase name="willThroExceptionOnUnderflow()" classname="collections.queue.QueueTest" time="0.002"/>
+  <testcase name="checkQueueIsEmpty()" classname="collections.queue.QueueTest" time="0.001"/>
+  <testcase name="quequeIsEmptyAfterEnqueueAndDequeue()" classname="collections.queue.QueueTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
